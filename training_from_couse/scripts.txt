@@ -1,0 +1,1 @@
+Here some variants how can we use R for data analysis and statistics
