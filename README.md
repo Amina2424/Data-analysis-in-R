@@ -1,5 +1,5 @@
 # Data-analysis-in-R
-This project was completed as part of the advanced training program ‘Big Data Analysis in Biomedicine’ (72 academic hours), which focused on developing expertise in large-scale biological data processing, computational methods, and their applications in medical research.
+This project was completed as part of the advanced training program ‘Big Data Analysis in Biomedicine’, which focused on developing expertise in large-scale biological data processing, computational methods, and their applications in medical research.
 
 Here’s a professional `README.md` file for your project in English, structured for clarity and reproducibility:
 
