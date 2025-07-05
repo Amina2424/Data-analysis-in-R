@@ -60,18 +60,6 @@ This project analyzes cardiovascular diseases (CVDs) using statistical and machi
 ### **Dependencies**  
 - R libraries: `nortest`, `ggplot2`, `dplyr`, `MASS`.  
 - Python (optional): `pandas`, `scipy`, `sklearn`.  
-
-### **Code Structure**  
-```bash
-├── Data/                 # Processed dataset (CSV)  
-├── Scripts/              # R/Python scripts for analysis  
-│   ├── 01_Data_Cleaning.R  
-│   ├── 02_EDA.R  
-│   └── 03_Modeling.R  
-├── Results/              # Outputs (plots, tables)  
-└── References/           # Literature sources  
-```
-
 ---
 
 ## **References**  
