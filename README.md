@@ -75,5 +75,3 @@ This project analyzes cardiovascular diseases (CVDs) using statistical and machi
 ### **Notes**  
 - For model improvement, consider oversampling or tree-based algorithms (e.g., Random Forest).  
 - Full analysis details in [`report.pdf`](Доклад (1).pdf).  
-
-Let me know if you'd like to emphasize any specific section (e.g., technical details, visualizations)!
